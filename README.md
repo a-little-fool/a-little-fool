@@ -1,5 +1,5 @@
 ## Hi there 👋☘️
-<p align="left">Hello, I'm a student from China.</p>
+<p align="left">Hello, You can call me Songxiao, I'm a student from China.</p>
 
 ## About me 😄👀🌈
 <p align="left">🎓 Graduate Student | The Software Engineering major at NUIST<br>💻 A back-end developer who loves using Java and Go programming languages<br>🏝️ Passionate about sports and going sightseeing.<br>🚀 I'm currently learning programming skills and other knowledge I'm interested in</p>
