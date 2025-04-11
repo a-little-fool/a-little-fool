@@ -7,5 +7,5 @@
 ## Interest areas 🌵🍀🌱🌿🌾📊📚🖼️
 <p align="left">🔧 Back-end development ｜ API development and management, system architecture design<br>🎢 Data Structures and Algorithms | Design and optimization<br>👨 AI application development | 🧠 Large Language Models (LLMs), ⚙️ AI Agent, 🎨 AIGC (AI-Generated Content)</p>
 
-## Github show ✨
-<a href="https://github.com/a-little-fool"><img align='right' src="https://github-readme-stats.vercel.app/api?username=a-little-fool&show_icons=true&theme=radical&count_private=true"></a>
+## Github stats ✨
+<a href="https://github.com/a-little-fool"><img align='left' src="https://github-readme-stats.vercel.app/api?username=a-little-fool&show_icons=true&theme=radical&count_private=true"></a>
