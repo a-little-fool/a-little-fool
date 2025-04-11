@@ -2,7 +2,6 @@
 <p align="left">Hello, You can call me Songxiao, I'm a student from China.</p>
 
 ![qq](https://img.shields.io/badge/2030509072-%20-green?logo=qq)
-![wechat](https://img.shields.io/badge/dj2030509072-%20-green?logo=wechat)
 ![qq email](https://img.shields.io/badge/2030509072%40qq.com-%20-green?logo=gmail)
 
 ## About me 😄👀🌈
