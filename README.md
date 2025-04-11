@@ -1,7 +1,8 @@
 ## Hi there 👋☘️
 <p align="left">Hello, You can call me Songxiao, I'm a student from China.</p>
 
-![2030509072@qq.com](https://img.shields.io/badge/2030509072%40qq.com-%20-green?logo=gmail)
+![qq.com](https://img.shields.io/badge/2030509072%40qq.com-%20-green?logo=gmail)
+![wechat](https://img.shields.io/badge/dj2030509072-%20-green?logo=wechat)
 
 ## About me 😄👀🌈
 <p align="left">🎓 Graduate Student | The Software Engineering major at NUIST<br>💻 A back-end developer who loves using Java and Go programming languages<br>🏝️ Passionate about sports and going sightseeing.<br>🚀 I'm currently learning programming skills and other knowledge I'm interested in</p>
