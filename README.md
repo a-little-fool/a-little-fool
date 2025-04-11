@@ -1,6 +1,6 @@
+<a href="https://github.com/a-little-fool"><img align='right' src="https://github-readme-stats.vercel.app/api?username=a-little-fool&show_icons=true&theme=radical&count_private=true"></a>
 ## Hi there 👋
 Hello, I'm a student from China. 
-<a href="https://github.com/a-little-fool"><img align='right' src="https://github-readme-stats.vercel.app/api?username=a-little-fool&show_icons=true&theme=radical&count_private=true"></a>
 
 ## About me
 - 🎓 Graduate Student | The Software Engineering major at NUIST
