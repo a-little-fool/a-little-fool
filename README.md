@@ -10,5 +10,5 @@
 ## Github stats ✨
 <a href="https://github.com/a-little-fool"><img align='left' src="https://github-readme-stats.vercel.app/api?username=a-little-fool&show_icons=true&theme=radical&count_private=true"></a>
 <a href="https://github.com/a-little-fool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-little-fool&layout=compact&langs_count=8&hide=css,scss,FreeMarker,Smalltalk&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-little-fool&layout=compact&langs_count=12&hide=css,scss,FreeMarker,Smalltalk&theme=github_dark" />
 </a>
