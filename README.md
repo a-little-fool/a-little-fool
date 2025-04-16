@@ -5,7 +5,7 @@
 ![qq email](https://img.shields.io/badge/2030509072%40qq.com-%20-green?logo=gmail)
 
 ## About me 😄👀🌈
-<p align="left">🎓 The Software Engineering major at NUIST<br>💻 A back-end developer who loves using Java and Go programming languages<br>🏝️ Passionate about sports and going sightseeing.<br>🚀 I'm currently learning programming skills and other knowledge I'm interested in</p>
+<p align="left">🎓 NUIST<br>💻 A back-end developer who loves using Java and Go programming languages<br>🏝️ Passionate about sports and going sightseeing.<br>🚀 I'm currently learning programming skills and other knowledge I'm interested in</p>
 
 ## Interest areas 🌵🍀🌱🌿🌾📊📚🖼️
 <p align="left">🔧 Back-end development ｜ API development and management, system architecture design<br>🎢 Data Structures and Algorithms | Design and optimization<br>👨 AI application development | 🧠 Large Language Models (LLMs), ⚙️ AI Agent, 🎨 AIGC (AI-Generated Content)</p>
